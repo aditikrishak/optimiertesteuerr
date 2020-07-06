@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="https://www.optimiertesteuern.ch/plugins/system/uikitmodules/css/uikit_modules.css" type="text/css"?>
+<?xml-stylesheet href="https://www.optimiertesteuern.ch/plugins/system/uikitmodules/css/custom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="de-de">
+	<title type="text">Service Offerte</title>
+	<subtitle type="text">Lassen Sie Ihre Steuerklärung von Experten ausfüllen. Schnell, professionell und dies bereits ab CHF 59.-.</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.optimiertesteuern.ch"/>
+	<id>https://www.optimiertesteuern.ch/de/service-de</id>
+	<updated>2020-07-06T11:24:36+00:00</updated>
+	<author>
+		<name>Optimierte Steuern</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.optimiertesteuern.ch/de/service-de?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Service</title>
+		<link rel="alternate" type="text/html" href="https://www.optimiertesteuern.ch/de/service-de/7-service"/>
+		<published>2019-01-30T06:01:56+00:00</published>
+		<updated>2019-01-30T06:01:56+00:00</updated>
+		<id>https://www.optimiertesteuern.ch/de/service-de/7-service</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;h4&gt;Es ist wieder soweit!&lt;/h4&gt;
+&lt;h5&gt;Zum neuen Jahr gehört das Ausfüllen der jährlichen Steuererklärung.&lt;/h5&gt;
+&lt;p&gt;Überlassen Sie uns doch das zeitraubende Ausfüllen Ihrer Steuererklärung und profitieren Sie von den langjährigen Erfahrungen unserer Steuerexperten.&lt;/p&gt;
+&lt;p&gt;Wir erledigen Ihre Steuern&lt;strong&gt; ab nur CHF 59.00&lt;/strong&gt; (zzgl MWST.).&lt;/p&gt;
+&lt;p&gt;Überzeugen Sie sich! Unsere Dienstleistung ist die richtige Lösung für Ihre Steuerangelegenheiten.&lt;/p&gt;
+&lt;p&gt;Profitieren Sie von der langjährigen Erfahrung unserer Mitarbeiter in diesem Bereich.&lt;/p&gt;
+&lt;p&gt;Wie gehen wir vor?&lt;/p&gt;
+&lt;p&gt;Wenn Sie sich für uns entscheiden, erhalten Sie von uns:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;eine Checkliste&lt;/li&gt;
+&lt;li&gt;einen grossen Briefumschlag&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Was Sie machen müssen:&lt;/p&gt;
+&lt;p&gt;Legen Sie alle benötigten Belege gemäss unserer Checkliste bereit, ergänzen Sie wichtige Informationen auf einem Beiblatt, stecken Sie alles in den Briefumschlag und, werfen diesen in den nächsten Briefkasten.&lt;/p&gt;
+&lt;p&gt;Sie profitieren von einer unterschriftsfertig ausgefüllten Steuererklärung zu einem günstigen Preis, die wir Ihnen wiederum per Briefpost zukommen lassen.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Nachstehend eine Aufstellung der Richtpreise:&lt;/h4&gt;
+&lt;table class=&quot;table table-stripe&quot; style=&quot;height: 105px;&quot; width=&quot;731&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ A&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;ledig&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF   59.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;verheiratet&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF 110.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ C&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;mit Wohneigentum&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF 180.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ D&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;mit Wohneigentum und 8 Positionen Wertschriften&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF 230.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Für alle übrigen Aufwände erstellen wir gerne eine persönliche Offerte. Diese wird mit einem Stundenansatz von CHF 140.00 (zzgl. MWST) erstellt.&lt;/p&gt;
+&lt;p&gt;Sollten wir nicht in der Lage sein, Ihre Steuererklärung fristgerecht zu erledigen, beantragen wir automatisch eine Fristverlängerung bis zum 30 November bzw. dem spätmöglichsten Termin.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Sind Sie selbstständig erwerbend? Kein Problem! Rufen Sie uns an, damit wir Ihnen einen Vorschlag unterbreiten können.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.optimiertesteuern.ch/de/formular-new&quot;&gt;&lt;button class=&quot;button btn btn-primary btn-large&quot;&gt;Jetzt Offerte einholen&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h4&gt;Es ist wieder soweit!&lt;/h4&gt;
+&lt;h5&gt;Zum neuen Jahr gehört das Ausfüllen der jährlichen Steuererklärung.&lt;/h5&gt;
+&lt;p&gt;Überlassen Sie uns doch das zeitraubende Ausfüllen Ihrer Steuererklärung und profitieren Sie von den langjährigen Erfahrungen unserer Steuerexperten.&lt;/p&gt;
+&lt;p&gt;Wir erledigen Ihre Steuern&lt;strong&gt; ab nur CHF 59.00&lt;/strong&gt; (zzgl MWST.).&lt;/p&gt;
+&lt;p&gt;Überzeugen Sie sich! Unsere Dienstleistung ist die richtige Lösung für Ihre Steuerangelegenheiten.&lt;/p&gt;
+&lt;p&gt;Profitieren Sie von der langjährigen Erfahrung unserer Mitarbeiter in diesem Bereich.&lt;/p&gt;
+&lt;p&gt;Wie gehen wir vor?&lt;/p&gt;
+&lt;p&gt;Wenn Sie sich für uns entscheiden, erhalten Sie von uns:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;eine Checkliste&lt;/li&gt;
+&lt;li&gt;einen grossen Briefumschlag&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Was Sie machen müssen:&lt;/p&gt;
+&lt;p&gt;Legen Sie alle benötigten Belege gemäss unserer Checkliste bereit, ergänzen Sie wichtige Informationen auf einem Beiblatt, stecken Sie alles in den Briefumschlag und, werfen diesen in den nächsten Briefkasten.&lt;/p&gt;
+&lt;p&gt;Sie profitieren von einer unterschriftsfertig ausgefüllten Steuererklärung zu einem günstigen Preis, die wir Ihnen wiederum per Briefpost zukommen lassen.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Nachstehend eine Aufstellung der Richtpreise:&lt;/h4&gt;
+&lt;table class=&quot;table table-stripe&quot; style=&quot;height: 105px;&quot; width=&quot;731&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ A&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;ledig&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF   59.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;verheiratet&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF 110.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ C&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;mit Wohneigentum&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF 180.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 96px;&quot;&gt;&lt;strong&gt;Typ D&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 422px;&quot;&gt;mit Wohneigentum und 8 Positionen Wertschriften&lt;/td&gt;
+&lt;td style=&quot;width: 191px;&quot;&gt;&lt;strong&gt;CHF 230.00-&lt;/strong&gt; zzgl. MWST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Für alle übrigen Aufwände erstellen wir gerne eine persönliche Offerte. Diese wird mit einem Stundenansatz von CHF 140.00 (zzgl. MWST) erstellt.&lt;/p&gt;
+&lt;p&gt;Sollten wir nicht in der Lage sein, Ihre Steuererklärung fristgerecht zu erledigen, beantragen wir automatisch eine Fristverlängerung bis zum 30 November bzw. dem spätmöglichsten Termin.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Sind Sie selbstständig erwerbend? Kein Problem! Rufen Sie uns an, damit wir Ihnen einen Vorschlag unterbreiten können.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.optimiertesteuern.ch/de/formular-new&quot;&gt;&lt;button class=&quot;button btn btn-primary btn-large&quot;&gt;Jetzt Offerte einholen&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Service" />
+	</entry>
+</feed>
